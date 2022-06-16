@@ -1,2 +1,1 @@
-s is the first git project on alx-pre-cours
-
+This is the !st git project on alx course
